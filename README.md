@@ -1,7 +1,8 @@
 # SoundCity
 
-Entorno musical interactivo virtual desarrollado para el Trabajo de Fin de Grado. Es un entorno creado proceduralmente que se asemeja a un viaje en automóvil a través de una ciudad de temática neón futurista, y que reacciona a la música que se reproduce. El usuario también tiene la possibilidad de controlar distintas variables para modificar la generación de la ciudad a su antojo, a través de un dispositivo externo. En cuanto al prototipo final presentado, este dispositivo se trata de un controlador MIDI.
+Virtual interactive musical environment developed for the Bachelor's Degree Final Project. It is a procedural created environment ressembling a car trip through a futuristic neon city that reacts to the music playing. The user also has agency modifying several variables in order to modify the city generation as they see fit using a external device. As for the final prototype presented, this device is a MIDI controller. Developed using Unity.
 
+Video demo on eduardescola.com
 
 ![soundcity1](https://user-images.githubusercontent.com/48218009/193237966-ebc34e1b-bb0a-486c-905e-79fd5bca1e27.png)
 ![soundcity2](https://user-images.githubusercontent.com/48218009/193237969-ee9c4d1c-1a11-4188-8e88-e717f081baf8.png)
